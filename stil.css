@@ -17,8 +17,9 @@ p{
 	margin: 20px;
 	width: 50%;
 	}
+@font-face {font-family:CvitaMiocic; src: url("mojfont/CvitaMiocic.ttf");}
 	h1 {
-		@font-face {font-family:CvitaMiocic; src: url("mojfont/CvitaMiocic.ttf");}
+	font-family:CvitaMiocic;
 	font-size: 50px;
 }
 	h2 {
