@@ -1,4 +1,5 @@
 @charset "utf-8";
+@font-face {font-family:CvitaMiocic; src: url("mojfont/CvitaMiocic.ttf");
 /* CSS Document */
 
 p{
@@ -17,7 +18,6 @@ p{
 	margin: 20px;
 	width: 50%;
 	}
-@font-face {font-family:CvitaMiocic; src: url("mojfont/CvitaMiocic.ttf");}
 	h1 {
 	font-family:CvitaMiocic;
 	font-size: 50px;
