@@ -1,7 +1,7 @@
 @charset "utf-8";
 @font-face {
   font-family: "CvitaMiocic";
-  src: url("moj font/CvitaMiocic.ttf");
+  src: url("mojfont/CvitaMiocic.ttf");
 }
 /* CSS Document */
 
@@ -22,7 +22,7 @@ p{
 	width: 50%;
 	}
 	h1 {
-	font-family: CvitaMiocic, sans-serif;
+	font-family: CvitaMiocic;
 	font-size: 50px;
 }
 	h2 {
