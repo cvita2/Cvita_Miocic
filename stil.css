@@ -7,7 +7,7 @@
 
 p{
 	color: black;
-	font-family:Century;
+	font-family: "Century" ;
 	font-size: 16px;
 	line-height: 16px;
 	width: 400px;
@@ -26,12 +26,12 @@ p{
 	font-size: 50px;
 }
 	h2 {
-	font-family:Century;
+	font-family: "Century";
 	font-size: 40px;
 	color: black;
 }
 	h3{
-	font-family:Century;
+	font-family: "Century";
 	font-size: 20px;
 	color: black;
 }
